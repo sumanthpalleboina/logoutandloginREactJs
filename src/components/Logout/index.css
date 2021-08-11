@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.button {
+  border-width: 0px;
+  color: #303150;
+  font-family: 'Roboto';
+  font-weight: bold;
+  cursor: pointer;
+  width: 100px;
+  height: 38px;
+  border-radius: 10px;
+}
+.button-container {
+  text-align: center;
+}
